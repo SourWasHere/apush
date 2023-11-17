@@ -1,8 +1,6 @@
 import random
 
-#change str value of unit variable below to change unit
-unit = "5" 
-txt = open("C:/Users/emmaz/OneDrive/Documents/what/apush/chronology/unit" + unit + ".txt") 
+txt = open("insert directory for txt file") #ex: C:\Users\SourWasHere\OneDrive\Documents\unit5.txt
 lines = txt.readlines()
 datenumbers = [] #all dates and events
 events = []
