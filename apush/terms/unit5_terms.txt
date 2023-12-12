@@ -1,0 +1,198 @@
+13th,14th,15th Amendments
+who:abraham lincoln
+wht:also called war amendments
+whn:civil war started in 1861
+sgn:responsible for abolishing slavery, giving voting rights to black people, and giving citizenship to all born in the u.s
+
+Bleeding Kansas
+who:stephen a douglas
+wht:kansas became disputed territory between pro slavery and anti slavery people
+whn:kansas nebraska act implemented in 1854
+sgn:caused by kansas nebraska act that removed peace from compromises of 1850 and 1820
+
+Black Codes
+who:southern states
+wht:policies that restricted black people like they were still slaves by making them dependent on planters again
+whn:civil war started in 1861
+sgn:negative reaction from northern moderates
+
+Carpetbaggers
+who:northern white people who helped black people 
+wht:northern white people who helped black people 
+whn:civil war ended 1865
+sgn:criticized by dunning school
+
+Civil Rights Act 1866
+who:vetoed by andrew johnson
+wht:made citizens equal to give black people same rights
+whn:1866
+sgn:was used to enforce 13th amendment
+
+Civil Rights Cases 1883
+who:charles sumner
+wht:supreme court ruled civil rights act passed by sumner unconstitutional
+whn:1883
+sgn:stripped all rights from black people so south has free reign
+
+Compromise of 1850
+who:henry clay
+wht:made california a free state and implemented fugitive slave law
+whn:1850
+sgn:example of politicians trying to make slavery less of an issue instead of dealing with it
+
+Crittenden Compromise
+who:abraham lincoln
+wht:abraham lincoln tried to appease crittenden by letting him have slavery and helping him win elections
+whn:civil war started 1861
+sgn:crittenden was kentucky representative and lincoln didn’t want to lose kentucky in civil war because kentucky was important
+
+Dred Scott v. Sanford
+who:dred scott
+wht:decision where dred scott was ruled not a valid citizen even though he lived in a free state
+whn:1857
+sgn:would impact other slaves and prevent them from suing for freedom
+
+Election of 1860
+who:abraham lincoln
+wht:elected abraham lincoln
+whn:1860
+sgn:emancipation proclamation was from lincoln, did more for american system than henry clay
+
+Election of 1864
+who:abraham lincoln
+wht:elected abraham lincoln again
+whn:1864
+sgn:emancipation proclamation was from lincoln, did more for american system than henry clay
+
+Election of 1876
+who:rutherford b hayes
+wht:elected rutherford b hayes
+whn:1876
+sgn:democrats thought they could win because republicans were losing support from credit mobilier and whiskey ring
+
+Emancipation Proclamation
+who:abraham lincoln
+wht:declared people in slave states free
+whn:lincoln elected in 1860
+sgn:evidence that lincoln supported abolitionism
+
+Force Acts of 1870
+who:ku klux klan
+wht:congress put klan members in prison for less than 5 years for multiple murders
+whn:1870
+sgn:response to klan terror tactics
+
+Free Soil, Free Labor 
+who:van buren was representative
+wht:anti slavery party made of whigs and democrats 
+whn:1848
+sgn:goal was to prevent expansion of slavery and was reaction to mexican american war
+
+Freedmen's Bureau
+who:congress
+wht:helped southern slaves and white men after civil war
+whn:started 1865 
+sgn:was source of information about african americans during slavery and reconstruction 
+
+Freeport Doctrine
+who:stephen a douglas
+wht:idea that states could decide not to enforce dred scott if people agreed
+whn:lincoln douglas debates around 1858
+sgn:influenced by douglas’s dedication to popular sovereignty
+
+Fugitive Slave Law
+who:henry clay
+wht:made north help return slaves to slaveholders 
+whn:1850
+sgn:implemented by compromise of 1850, personal liberty laws were made by states to get around law
+
+Jefferson Davis
+who:confederate states of america president
+wht:confederate states of america president
+whn:civil war started 1861
+sgn:supported slavery during sectionalism and led confederate states
+
+John Brown
+who:radical abolitionist who killed men in kansas
+wht:radical abolitionist who killed men in kansas
+whn:led raid in 1859
+sgn:involved in question of whether abolitionism should be violent, viewed as terrorist
+
+Kansas Nebraska Act
+who:stephen a douglas
+wht:repealed compromises of 1850 and 1820 and associated peace
+whn:civil war started in 1861
+sgn:douglas wanted to be polk, big cause of civil war
+
+Know-Nothing Party
+who:henry clay
+wht:whigs who only cared about american system and ignored slavery
+whn:one of 4 political parties in election of 1860
+sgn:made by whigs who didn’t join republicans, example of henry clay accepting slavery and ignoring in favor of economic progress
+
+Ku Klux Klan Act
+who:ku klux klan
+wht:congress put klan members in prison for less than 5 years for multiple murders
+whn:1870
+sgn:response to klan terror tactics
+
+Lincoln Douglas Debates
+who:abraham lincoln
+wht:series of debates between lincoln and douglas mostly about slavery
+whn:1858
+sgn:lincoln got more pro south the further down he went
+
+Reconstruction       
+who:abraham lincoln
+wht:period after civil war when government attempted to fix issues related to the status of black people and left troops in south
+whn:civil war ended 1865
+sgn:called rape of the south by dunning school 
+     	  	
+3 Reconstruction Plans
+who:andrew johnson
+wht:wartime reconstruction, presidential reconstruction, and radical reconstruction
+whn:civil war ended 1865
+sgn:reconstruction was separated because who controls reconstruction
+
+Reconstruction Acts of 1867
+who:radicals
+wht:kicked south out of country and separated into 5 pieces that could rejoin with new voting laws and constitutions if they followed wade davis bill and ratified 14th amendment
+whn:1867
+sgn:radical approach to reconstruction is to remake south
+
+Scalawags
+who:southern white people who supported black people
+wht:southern white people who supported black people
+whn:civil war ended 1865
+sgn:criticized by dunning school
+
+Stephen A. Douglas
+who:democrat who supported popular sovereignty
+wht:democrat who supported popular sovereignty
+whn:lincoln douglas debates were around 1858
+sgn:involved in lincoln douglas debates, big cause of civil war
+
+Tenure of Office Act
+who:andrew johnson
+wht:radicals pass law that kept president from replacing military without cabinet approval
+whn:1867
+sgn:reaction to johnson replacing edwin stanton’s generals in south
+
+Uncle Tom's Cabin
+who:written by harriet beecher stowe
+wht:book about slave catchers that was response to states tightening restrictions on slaves
+whn:1852
+sgn:spread public awareness about slavery and made more people against it
+
+Wade-Davis Bill
+who:henry davis and benjamin wade
+wht:let southern states rejoin union if at least 50% swore loyalty
+whn:lincoln elected in 1860
+sgn:conflicted with lincoln’s 10% plan
+
+Wilmot Proviso
+who:david wilmot
+wht:congress can decide about slavery territories, “no slaves in mexican cession”
+whn:mexican american war ended around 1845
+sgn:because wilmot was a white supremacist who didn’t want to deal with black people, south rejects idea with 5th amendment “congress cannot interfere”
+
